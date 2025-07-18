@@ -1,2 +1,2 @@
 # Projetos-em-Csharp
-Aqui é onde vou guardar mini projetinhos que vou fazer, so para salva-los
+Aqui é onde pretendo adicionar algumas soluções para problemas em C#, será um local somente para isso e quanto mais soluções melhor!
