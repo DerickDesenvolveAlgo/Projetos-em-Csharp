@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema De jogos que já joguei/1.0.0": {
+        "runtime": {
+          "Sistema De jogos que já joguei.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema De jogos que já joguei/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
