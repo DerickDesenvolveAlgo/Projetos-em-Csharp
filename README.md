@@ -1,32 +1,33 @@
-<h1 align="left">C# Solutions</h1>
+<h1 align="left">C# SOLUTIONS</h1>
 
 ###
 
-<p align="left">Olá!!! Esse projeto se trata de tentar criar soluções e aplicações <br>divertidas com C#, sempre que possivel aumentando a dificuldade <br>para ver até onde essa linguagem aguenta.</p>
+<h3 align="left">🤷‍♂️O QUE É</h3>
+
+###
+
+<p align="left">O C# solutions basicamente é um projeto que eu viso criar as mais diversas aplicações que envolvem C#, sempre tentando manter uma periodicidade e transformando o C# solutions em algo grande para quem o ver.</p>
+
+###
+
+<h3 align="left">🖥COMO USAR</h3>
+
+###
+
+<p align="left">O uso se dá de forma simples, pegue a solução que desejar<br>>Vá no visual studio e somente adicione a pasta selecionada como seu projeto.<br>>Caso queira só rodar a aplicação, como por exemplo o de sistema de jogos vá em \Sistema De jogos que já joguei\bin\Debug\net8.0 e abra o exe que sempre deixarei ali</p>
+
+###
+
+<h3 align="left">🔨AJUDA</h3>
+
+###
+
+<p align="left">Toda ajuda é bem vinda! sinta-se livre para trabalhar nesse projeto com soluções novas ou que você já tenha feito</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
-  
-</div>
-
-###
-
-<h2 align="left">ONLY C# HERE!!!!!!!!!!</h2>
-
-###
-
-<div align="center">
-<a href="https://imgflip.com/i/a0m0r1"><img src="https://i.imgflip.com/a0m0r1.jpg" title="made at imgflip.com"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
