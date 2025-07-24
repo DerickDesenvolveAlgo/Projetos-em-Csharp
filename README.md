@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">O uso se dá de forma simples, pegue a solução que desejar<br>>Vá no visual studio e somente adicione a pasta selecionada como seu projeto.<br>>Caso queira só rodar a aplicação, como por exemplo o de sistema de jogos vá em \Sistema De jogos que já joguei\bin\Debug\net8.0 e abra o exe que sempre deixarei ali</p>
+<p align="left">O uso se dá de forma simples, pegue a solução que desejar<br>>Vá no visual studio e somente adicione a pasta selecionada como seu projeto.<br>>Caso queira só rodar a aplicação, como por exemplo o de sistema de jogos vá na pasta executable que deixarei disponivel, copie ela inteira para utilizar o app, depois só clique no executavel.</p>
 
 ###
 
